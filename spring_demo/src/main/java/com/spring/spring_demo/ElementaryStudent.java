@@ -1,8 +1,5 @@
 package com.spring.spring_demo;
 
-// import org.springframework.stereotype.Component;
-
-// @Component 
 public class ElementaryStudent implements Student {
 
     public ElementaryStudent() {
